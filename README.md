@@ -32,7 +32,7 @@
   Контакты
 </h3>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-f05138?style=for-the-badge&logo=telegram&logoColor=orange)](https://t.me/CMRain)
+[![Telegram](https://img.shields.io/badge/-Telegram-f05138?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CMRain)
 [![Instagram](https://img.shields.io/badge/-Instagram-f05138?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cm_rain/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f05138?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-anikin/)
 [![VK](https://img.shields.io/badge/-VK-f05138?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id179803241)
